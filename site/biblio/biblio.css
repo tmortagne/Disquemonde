@@ -1,0 +1,30 @@
+body {
+	font-family: "Times New Roman", helvetica, "sans serif";
+	background-color: #000000;
+	background-image: url(images/fondlivre.jpg);
+}
+
+.mail {
+	color: #ff0000
+}
+
+.ed {
+	color: #336633;
+	font-style: italic;
+	font-size: xx-small;
+	font-variant: small-caps;
+	text-transform: uppercase;
+}
+
+.ed-en {
+	color: #CC3300;
+	font-style: italic;
+	font-size: xx-small;
+	font-variant: small-caps;
+	text-transform: uppercase;
+}
+
+.ed-error {
+	color: #336633;
+	font-style: italic;
+}

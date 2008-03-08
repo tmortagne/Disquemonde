@@ -1,0 +1,8 @@
+body {
+	font-family: "Times New Roman", helvetica, "sans serif";
+	background-color: #000000;
+}
+
+#top {
+	background-image: url(images/backup.jpg);
+}

@@ -1,0 +1,404 @@
+Cripple Mr Onion, v3.0Cripple Mr Onion, v3.0 
+
+
+Reconstructed by Andrew C. Millard 
+from "Witches Abroad" by Terry Pratchett. 
+Thanks to Terry Tao concerning the modifiers. 
+
+
+This description of Cripple Mr Onion is in six parts: 
+  Introduction, 
+  The Hands, 
+  The Non-Gambling Game, 
+  The Gambling Game, 
+  The Modifiers, 
+  Final Points. 
+
+
+
+1. Introduction: 
+
+
+Cripple Mr Onion requires two standard decks of playing cards, preferably one 
+having the English or French suits clubs, spades, hearts and diamonds, and the 
+second having the Spanish or Italian suits swords, staves, cups and coins - for 
+the purpose of forming flushes, these are taken to be paired in their respective 
+order given above: 
+clubs is paired with swords, 
+spades is paired with staves, 
+hearts is paired with cups, 
+diamonds is paired with coins. 
+If a Spanish or Italian suit cannot be obtained, two English or French decks can 
+be used adequately for most purposes; see the modifiers for further comments on 
+this. 
+The game also requires at least two players, but not more than seven [this isn't 
+to do with the number eight for a specific reason, but a result of the fact that 
+there aren't enough cards for more than seven players], with a ready supply of 
+small coinage or tokens when gambling takes place, and the players arranged as 
+evenly as possible around the table on which the game is played. A container 
+able to hold cards should be placed centrally on the table - this is to be the 
+discard pot - along with another container for coins or tokens if gambling is to 
+take place: this is the Pot. 
+
+
+
+2. The Hands: 
+
+
+Cripple Mr Onion revolves around forming groups of cards which either sum 
+exactly to twenty-one (an onion) or come close to this total without exceeding 
+it; in the usual fashion, a picture card (P) is worth ten, an ace (A) is worth 
+one or eleven, and other cards are worth their face value: a ten (T) is worth 
+ten, a nine is worth nine, and so on. Since groups of cards which sum exactly to 
+twenty-one can be formed in various ways, they are ranked in a particular order 
+according to their composition, along with a few other groups which do not give 
+twenty-one in total but which are of some interest; these special hands, 
+described below, are worth more than any other valid combinations of cards and 
+usually dominate the play. 
+There are thirteen categories of winning hands and in increasing order of worth 
+are: 
+  Bagel: this is a combination of two cards which totals exactly twenty; it is, 
+  therefore, one of TT, TP, PP or 9A. 
+  two-card onion: this is a combination of two cards which totals exactly 
+  twenty-one; it is, therefore, either TA or PA. 
+  Broken Flush: this is a group of at least three cards, summing to at least 
+  sixteen (but not more than twenty-one) with all of the cards except for one in 
+  the same suit-pair. 
+  three-card onion: this is a group of three cards which totals twenty-one 
+  exactly; examples are ATT, 56T, and 579. 
+  Flush: this is a group of at least three cards, summing to at least sixteen 
+  (but not more than twenty-one) with all of the cards in the same suit-pair. 
+  four-card onion: ... four cards which total twenty-one; for example, A55T, 
+  2469, and 3378. 
+  Broken Royal: this is a special case of a three-card onion where the three 
+  cards are specifically 678 (of any suit-pairs). 
+  five-card onion: ... five cards ... e.g. A235T, 23466, and 33348. 
+  Royal: this is another special three-card onion being 777. 
+  six-card onion: ... six cards ... e.g. A2233T and A23456. 
+  (Wild Royal: this is a combination that may only be played when eights are 
+  wild - see the modifiers for details - since it consists of three wild 
+  eights.) 
+  seven-card onion: ... seven cards ... e.g. A223445. 
+  Onion: an Onion (capitalised letter 'o') is a two card combination of a 
+  picture card and an ace; HOWEVER, PA on its own is just a two- card onion 
+  (place two above), since to occupy this exalted position, the group must 
+  consist of two Onions, PAPA or Double Onion, or three Onions, PAPAPA or 3[PA] 
+  or Triple Onion, or four Onions, 4[PA] or Lesser Onion, or even five Onions, 
+  5[PA] or Great Onion. The Onions themselves are arranged according to their 
+  worth, with Double Onion the lowest and Great Onion the best. 
+Notice that the maximum number of cards making up an onion is seven (there is no 
+eight-card onion) and that for PA to be of any real value, the player must hold 
+at least two picture cards and two aces. Also, if a player should be unlucky 
+enough to receive multiple bagels, the qualifiers "double", "triple", "lesser" 
+and "great" (with small initials) are used. 
+Since each player is ultimately in posession of ten cards, a number of groups, 
+most of them usually winning hands, can be formed; the objective of any 
+individual player is therefore to form the ten cards into the best possible set 
+of groups, with each of the ten cards taking part in only one of the groups. For 
+example, representing clubs and swords by 'c', spades and staves by 's', hearts 
+and cups by 'h' and diamonds and coins by 'd', the hand: 
+3c 3s 4s Js Ah 7h Qh Ad 4d 6d 
+is best split into: Double Onion - JsAhQhAd five-card onion - 3c3s4s4d7h a six - 
+6d 
+whilst the hand: 
+9c 4s Qs Ks 4h Jh Ad 7d Td Kd 
+is best split into: four-card onion - Ad4s7d9c double bagel - QsKsJhTd a 
+fourteen - 4hKd. 
+>From this list of winning hands, it follows that some cards are intrinsically 
+more valuable than others: tens, for example, are only useful in bagels and 
+small-card onions whereas twos and threes are necessary for constructing many- 
+card onions; aces and picture cards are obviously of great value. However, a 
+player's strategy in selecting cards for replacement (see the game descriptions 
+and certain of the modifiers) should also be influenced by the number of 
+players, and whether eights are wild or not, since these factors influence the 
+relative likelihood of each hand winning the round. 
+
+
+
+3. The Non-Gambling Game: 
+
+
+At the beginning of each round, one player is identified as the Dealer, with the 
+player to the Dealer's left as the Elder and the player to the Dealer's right as 
+the Younger - this sets the order of precedence in being dealt cards and in 
+winning in the event of a tie as Dealer, Elder, other players in order and, 
+lastly, Younger. In the event that the Dealership changes, these identifiers 
+move to be based around the new Dealer. The round opens when the Dealer shuffles 
+the pack of all 104 cards and the Younger cuts the pack. 
+All the players are dealt five cards in this order: the Dealer receives two 
+cards and deals all the other players, in order from Elder to Younger, three 
+cards; the Dealer then receives three cards and deals the other players two 
+[this is done to speed up the dealing, which isn't exactly the most interesting 
+part of the game]. Then, in turn, from Elder to Younger, each player discards up 
+to four cards into the discard pot and announces the number of discards to the 
+Dealer who replaces them from the top of the pack; the Dealer then discards and 
+replaces, also announcing the number thrown away. It is important to note that 
+up to this point all cards have been dealt face down, each player is only aware 
+of their own cards and, by way of the draw, ought to have a better hand than was 
+originally dealt. 
+The second set of five cards each is now dealt in the following way: the Dealer 
+receives five cards face down on the table, and then, in turn from Elder to 
+Younger, each other player is dealt five cards face up on the table. Cards dealt 
+face up on the table must remain that way, although the owner of those cards may 
+rearrange them there if desired. 
+Now the final part of the round, Showdown, takes place. Beginning from the 
+Elder, the highest card grouping is declared and displayed on the table; if the 
+player to the left of the Elder cannot equal, beat or play some modifier that 
+affects the Elder's cards, that player's cards are all placed face up on the 
+table, in their groupings if the player wishes, and that player is out of the 
+round; the comparison of the next leftward player's cards with the Elder's then 
+takes place. If the Elder's cards are equalled, then the next card grouping must 
+be considered. If the Elder's cards are beaten, then the Elder has the 
+opportunity to play a modifier or rearrange the card grouping in an attempt to 
+obtain a better arrangement; once the Elder's cards are undoubtedly beaten, 
+however, the Elder is out of the round and the comparison of the currently 
+leading player's cards with the next leftward player's takes place. By this 
+process of comparison, consideration of lower groupings, rearrangement of card 
+groups and playing of modifiers, and knocking out of players, the holder of the 
+best set of cards, between the Elder and the Younger, is found. Finally, the 
+Dealer's cards are compared with the only player left in, and the process of 
+finding the better cards is repeated; the player who holds the better cards has 
+then won the game. Note that in the event of either a complete tie between two 
+players' cards or an impasse due to circular use of modifiers, the player of 
+greater seniority wins - often, this means that the Dealer wins. Once all the 
+players but one have been knocked out, leaving the winner holding the best 
+cards, the round is over, the cards and discards are collected up and the winner 
+becomes the Dealer for the next round. 
+
+
+
+4. The Gambling Game. 
+
+
+There are two types of betting that are used in the gambling version of Cripple 
+Mr Onion and these will be described before the details of how they fit into the 
+game are given. 
+The first type is "matching the Dealer's stake". First, the Dealer chooses a 
+number of coins or tokens to be the stake, on the basis of the cards known to 
+the Dealer, and, naming the amount, places it in the Pot; if the Dealer wishes, 
+the amount may be zero. Then, when called upon by the Dealer to do so, each 
+player must either match the stake, placing an equal amount in the Pot, or fold, 
+placing all cards in the discard pot and losing any claim to the Pot in that 
+round; of course, if the stake is zero, all remaining players can stay in for 
+free. 
+The second type is "raising the Dealer". When called upon by the Dealer, each 
+player may choose to make an extra bet against the Dealer, according to cards 
+that are known to that player. If the player chooses to raise, the chosen number 
+of coins or tokens are placed on the player's cards and the amount is named. 
+Finally, when all the players who have not yet folded have done this, the Dealer 
+must place an amount equal to the total value of raises into the Pot - and all 
+the individual raises then go into the Pot as well - or lose the Dealership: 
+often this means that the Dealer must fold. 
+Each round begins in the same way as for the non-gambling game, except that now, 
+before the first deal takes place, every player places a previously agreed 
+amount, the Stake, into the Pot as the ante. Then after every player has 
+discarded and received replacements, the first round of betting takes place. 
+The Dealer selects a stake, as described above, and then, from the Elder to the 
+Younger, asks each player first to match that stake and then to raise it; if the 
+Dealer cannot match the total value of the raises, then the Dealer folds. This 
+matching and raising occurs twice. The Dealer then selects a stake for the third 
+time and again asks each player, in order, to match it; this time, however, the 
+players are not asked to raise. 
+The second set of five cards for each remaining player is then dealt as follows: 
+as before, the Dealer receives five cards face down, but now each player has the 
+option of buying from one to all of the five cards face down, at the price of an 
+amount equal to the Stake per card, instead of receiving them all face up. Cards 
+may be bought one at a time, if desired, and once the player has finished buying 
+cards, the Dealer deals the remainder from the five to that player face up on 
+the table in front of the player. As each player receives the full complement of 
+ten cards, an extra bet may be made, in the same manner as raising the Dealer, 
+and then, once every remaining player has ten cards, the Dealer must consider 
+all the extra bets. 
+If the Dealer matches the total extra bets made, the game continues with the 
+second round of betting described below; however, if the Dealer does not wish to 
+match the extra bets, then the Dealership changes *without* the Dealer folding - 
+this is the only time when this can take place. The Dealer gives the Dealership 
+to the Elder who, to become the new Dealer, must match the total extra bets, the 
+Elder's own extra bet going into the Pot if the Dealership is accepted; of 
+course, if the Elder does not accept, the Dealership is passed left again until 
+one of the other players accepts it, or until it has gone full circle with 
+no-one wanting it - in that case, everyone folds, the Pot becomes the ante for 
+the next round, the old Dealer remains as Dealer, and the next round starts 
+afresh. 
+Once the extra bets have been matched, be it by the original Dealer, the Elder 
+or one of the other players, the second round of betting takes place. This 
+consists of two stages of matching and raising as in the first round of betting, 
+but now not followed by a third stage of matching only. 
+Finally, Showdown takes place, exactly as in the non-gambling game, but now, of 
+course, the winner claims the contents of the Pot as the prize for winning. 
+In the event that the Dealer folds, the Dealership is auctioned as follows: from 
+the Elder to the Younger, the players who are still in are asked by the old 
+Dealer if they wish to be the new Dealer - if the player wishes to be the new 
+Dealer, that player must advance an amount equal to the Stake. If another 
+player, when asked, also wishes to be Dealer, then that player must match the 
+existing bid and advance another amount equal to the Stake. This process 
+continues around and around the table, with each prospective Dealer making sure 
+that the most recent player's bid is at least an amount equal to the Stake 
+higher that the last bid, until all the players except for one have declined to 
+advance any more, having placed their own total bid in the Pot as they declined, 
+and the single player left becomes the new Dealer, placing the winning bid in 
+the pot. If nobody wishes to be the new Dealer, all the players fold, the Pot 
+becomes the ante for the next round, the old Dealer stays as Dealer and another 
+round beings anew. 
+
+
+
+5. The Modifiers: 
+
+
+The modifiers have usually been created for one of two reasons, either to make 
+the game a little more interesting and a little more uncertain, or to decrease 
+the chances of winning with a specific hand. It is not necessary to use any of 
+them, apart from numbers zero, which gives the game its name, and one, which 
+makes many-card onions and then Onions more probable, and in a game, say, 
+between four hardened professionals, even the Null Eights Rules would probably 
+not be used. The employment of the modifiers, therefore, is left to the 
+discretion of the players, but some possibilities for using the modifiers beyond 
+number zero are as follows: 
+  just modifer #1; 
+  modifiers numbers 1 to 3; 
+  bring in the modifiers as the game progresses, one in every or every other 
+  round; 
+  let the Dealer, for each round, declare which modifiers are in force in that 
+  round; 
+  play all the modifiers from the beginning. 
+A number of the modifiers use specific cards to represent mythological and 
+not-so mythological Discworld characters, and, if two decks of cards with the 
+same suits are used, confusion may arise as to which of the two, say, queen of 
+spades is to represent the Lady. A solution, if not particularly satisfactory, 
+to this is to mark one of the two cards with a symbol, in this case, for 
+example, the letter L, on the face side so that the marked card becomes the 
+relevant one for the modifier and the other becomes an ordinary card. 
+The modifiers are all, some to a greater extent than others, based on Discworld 
+life, mythology and beliefs and have been assumed to have evolved, with the 
+game, over many centuries; none of the modifiers are arbitrary in their action 
+or purpose, but a detailed knowledge of the Discworld is not necessary to use 
+them. Finally, the ordering of the modifiers in the list below is, apart from 
+the Crippling Rules in position zero, largely accidental and is not a guide to 
+their usefulness or effectiveness. 
+Modifier #0: Crippling Rules. 
+  A nine-card running flush may be used to cripple a Great Onion and win the 
+  game. 
+  A ten-card running flush outcripples a nine-card running flush in crippling a 
+  Great Onion and may also cripple a Lesser Onion. 
+[Once a Great Onion or Lesser Onion have been crippled, the usual process of 
+Showdown stops, and the player with the crippling hand wins immediately.] 
+Modifier #1: Null Eights Rules. 
+  During a round in which eights are not wild (see ii), an eight may be used as 
+  if it had value zero in order to trump up an onion. In the event of a tie 
+  between two onions with equal numbers of cards, the onion with the fewer null 
+  eights wins. 
+  In the round following a round in which a null eight has been played, eights 
+  are wild, acting as any regular card. The wild Royal, three wild eights, may 
+  then be played. In the next round, eights return to their original role. 
+[To "trump up an onion" means to make a four-card onion into a five-card onion 
+by the addition of one null eight, or to make a three-card onion into a 
+seven-card onion with four. Note, again, that there are no onions beyond 
+seven-card and that wild eights cannot be used as either null eights or as any 
+of the special cards giving rise to later modifiers.] 
+Modifier #2: Wild Crippling Rule. 
+In a round in which eights are wild, to successfully cripple the relevant Onion, 
+the running flush must have at most the same number of wild cards as the Onion 
+being crippled. 
+Modifier #3: Octavo Rule. 
+When eights are wild, the card group consisting of eight eights can be 
+considered as a Lesser Onion, but beats other Lesser Onions and may not be 
+crippled like a Lesser Onion of any other composition, but may be crippled like 
+a Great Onion. 
+Modifier #4: The Lady's Rules. 
+  If eights are not wild, the queen of spades may be declared, before or during 
+  Showdown, and replaced by the player's choice of one of the next two cards 
+  from the deck, the chosen card taking up the place of the queen; the other 
+  card goes to the discard pot. This move may not be rescinded. 
+  When eights are wild, the queen of spades devalues one ace, for every other 
+  player, that would otherwise be played as having value eleven, to value one 
+  only. This does not affect any aces in a Great Onion, but may affect cards, in 
+  any grouping, which, by being wild or by other means, would otherwise be 
+  played with value eleven. 
+[To "declare" means to put the card on the table face up and point it out to the 
+other players; here, of course, the queen may no longer be used in forming card 
+groupings since a replacement card has been received, but should be left near 
+the player on the table rather than in the discard pot.] 
+Modifier #5: Fate's Rules. 
+  If the queen of spades has been declared and replaced, the king of cups may 
+  also be declared and replaced in a like manner, in the process making all aces 
+  held by the player who used the queen of spades have value zero. 
+  If eights are wild, the king of cups may be declared so that eights 
+  immediately cease to be wild; a different player who has the queen of spades, 
+  whether visible, played or not, may then make his own eights wild again. The 
+  king of cups may not be revoked once declared, and a single player may not use 
+  the king of cups and then the queen of spades in this way. 
+["Zeroed" cards are of no use in the game, and cannot be used like null eights 
+to trump up an onion.] 
+Modifier #6: Great A'Tuin's Rule. 
+Declaring the queen of coins allows the player to reduce the value of one of the 
+player's cards by eight points and to increase the value of a different card by 
+eight points. The two affected cards must still have value between one and 
+eleven inclusive. 
+[A two that is shifted up to value ten may be considered a picture card, a three 
+shifted up to eleven as an ace of value eleven.] 
+Modifier #7: The Elephants' Rule. 
+Any four cards, each being either a nine or a ten, or an eight when eights are 
+wild, that are declared with the queen of coins in one player's hand, allow that 
+player to shift as many points as are needed to to generate a Double Onion. This 
+Double Onion may be beaten by any other Double Onion. Any nines or tens in the 
+player's hand that are not involved in the shift may be considered as ones, not 
+aces, and twos respectively. 
+[Since the five cards involved here have only been declared, and not exchanged 
+as well, they are, of course, still playable as cards in groups. Remember that a 
+ten may not take the role of a picture card in an Onion - a shifted nine, eight 
+etc. is needed. With two nines, two tens and the queen of coins, a possible 
+shift is: add one each to the nines and tens - hence the Double Onion - and take 
+four from the queen of coins to be a six.] 
+Modifier #8: The Sender of Eight's Rules. 
+  When eights are not wild, a visible jack of diamonds makes any aces belonging 
+  to a player who uses any eights become zeroed (see #5i). 
+  When eights are wild, a visible jack of diamonds zeroes all aces and disallows 
+  eights from taking on value one or eleven. 
+Modifier #9: Death's Rules. 
+  When eights are not wild, a visible king of swords makes one picture card in 
+  every player's hand that has two or more picture cards have no part in forming 
+  a Double Onion. 
+  When eights are wild, a visible king of swords makes one picture card in every 
+  player's hand that has two or more picture cards have no part in forming 
+  either a Double Onion or a Triple Onion. 
+[The "killed" picture card can still take part in groups other than the 
+specified Onions.] 
+Modifier #10: The Archchancellor's Rules. 
+  Any player who plays the jack of staves may not also play an eight as having 
+  value eight. 
+  If the jack of staves is declared at any time during the game, the king of 
+  swords must also be declared if held by another player; if the king of swords 
+  is declared, then all the other players must also declare one previously 
+  undisclosed card each. If the king of swords is not held by another player, 
+  the the jack of staves becomes wild for the rest of the round. 
+Modifier #11: The Fool's Rule. 
+If, at any time before Showdown, the jack of clubs is declared, then, for the 
+rest of the round, bagels change places with Onions in the order of winning card 
+groupings. 
+[That is: the two-card onion and the single bagel change places; the Double, 
+Triple and Lesser Onions are exchanged with the double, triple and lesser bagels 
+respectively; the great bagel becomes only beaten by, but may also be crippled 
+like, the Great Onion which remains at the top of the list. This makes bagels 
+worth something, other than a tie-breaker. The jack of clubs, of course, can 
+still take part in bagels, and any other card grouping.] 
+
+
+
+6. Final Points: 
+
+
+Cripple Mr Onion was first mentioned in "Wyrd Sisters" and has, since then, been 
+seen in a number of places; the most notable of these, to date, is the section 
+in "Witches Abroad" on the riverboat, and it is from this section that the game 
+has been reconstructed. Loosely speaking, it is a cross between pontoon (or 
+blackjack) and poker, played with a deck of cards having eight suits, although, 
+as is to be expected, the nature of the Discworld has given Cripple Mr Onion 
+features found in no other game. 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
+Andrew C. Millard Physics Department, Princeton University. e-mail: 
+millard@pupgg.princeton.edu 
+
+
+
+This WWW page maintained by Robert R. Collier, mautx@csv.warwick.ac.uk
