@@ -21,9 +21,23 @@
 	
 <table border=1 cellpadding="10">
   <tr> 
-    <td> <h5 class="date">09/06/07</h5>
+    <td> <h5 class="date">09/12/07</h5>
       <br />
-      <p class="p1">Salut tout le monde, un peu en retard...</p>      
+      <p class="p1">Grosse mise à jour aujourd'hui.</p>      
+      <p class="p1">Tout d'abord quelque chose qui n'intéresse à peu près aucun d'entre vous mais j'y ais passé longtemps : le site est un tout petit peu plus respectueux des standard XHTML. Il reste beaucoup de boulo mais c'est déjà ça.</p>
+      <p class="p1">Et bien sûr le lot habituel de nouvelles fiches de livres de la section <a href="biblio/biblio.php">Biblio</a>.</p>
+      <ul>
+        <li>ajout de <a href="biblio/biblio_base.php?book=_discworld_children_s_novel&amp;lang=fr_fr">Un chapeau de ciel</a></li>
+        <li>ajout de <a href="biblio/biblio_base.php?book=_ressources&amp;lang=fr_fr">L'art du disque monde</a></li>
+        <li>ajout de <a href="biblio/biblio_base.php?book=_ressources&amp;lang=en_en">Unseen University Cut Out Book</a></li>
+        <li>ajout de <a href="biblio/biblio_base.php?book=_diarys&amp;lang=fr_fr">Lu-Tse's Yearbook of Enlightenment 2008</a></li>
+        <li>ajout de la bande dessinée <a href="biblio/biblio_base.php?book=_drawings&amp;lang=en_en">Guards! Guards!</a> / <a href="biblio/biblio_base.php?book=_drawings&amp;lang=fr_fr">Au Guet !</a></li>
+      </ul></td>
+  </tr>
+  <tr>
+    <td><h5 class="date">09/06/07</h5>
+        <br />
+        <p class="p1">Salut tout le monde, un peu en retard...</p>
       <p class="souris">comme d'hab quoi</p>
       <p class="p1">.... vous trouverez la fiche de la sortie
         française de <a
@@ -37,7 +51,7 @@
         autres joyeusetés (même si la plupart du temps j'utilise
         plutôt les code tout moche dans le genre
         &quot;&amp;agrave;&quot; pour encoder les lettres
-      particulières).</p></td>
+        particulières).</p></td>
   </tr>
   <tr>
     <td><h5 class="date">25/03/07</h5>

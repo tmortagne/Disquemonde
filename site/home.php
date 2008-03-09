@@ -321,7 +321,7 @@ include('infos.php');
             quoque me fili ?!</span> <br />
             <img src="images/discworld_22.gif" width="150" align="left"
               height="150" /></p>
-            <p class="p1">Encore une mise &agrave; jour (09/12/07) et,
+            <p class="p1">Encore une mise &agrave; jour (09/03/08) et,
             bien s&ucirc;r, ce site essaye encore et toujours de faire
             sa part dans la propagation de la bonne parole:</p>
             <p align=center><strong><font color="#FFFFFF"><b>LISEZ LE
@@ -390,16 +390,12 @@ include('infos.php');
             &agrave; jour</a></div>
             <br />
             <br />
-            <p class="p1">Grosse mise à jour aujourd'hui.</p>
-            <p class="p1">Tout d'abord quelque chose qui n'intéresse à peu près aucun d'entre vous mais j'y ais passé longtemps : le site est un tout petit peu plus respectueux des standard XHTML. Il reste beaucoup de boulo mais c'est déjà ça.</p>
-            <p class="p1">Et bien sûr le lot habituel de nouvelles fiches de livres de la section <a href="biblio/biblio.php">Biblio</a>.</p>
-            <ul>
-              <li>ajout de <a href="biblio/biblio_base.php?book=_discworld_children_s_novel&amp;lang=fr_fr">Un chapeau de ciel</a></li>
-              <li>ajout de <a href="biblio/biblio_base.php?book=_ressources&amp;lang=fr_fr">L'art du disque monde</a></li>
-              <li>ajout de <a href="biblio/biblio_base.php?book=_ressources&amp;lang=en_en">Unseen University Cut Out Book</a></li>
-              <li>ajout de <a href="biblio/biblio_base.php?book=_diarys&amp;lang=fr_fr">Lu-Tse's Yearbook of Enlightenment 2008</a></li>
-              <li>ajout de la bande dessinée <a href="biblio/biblio_base.php?book=_drawings&amp;lang=en_en">Guards! Guards!</a> / <a href="biblio/biblio_base.php?book=_drawings&amp;lang=fr_fr">Au Guet !</a></li>
-            </ul>
+            <p class="p1">Une toute petite mise à jour pour prévenir de l'ajout d'un lien d'importance : un blog dédié à des séances de Grandeur Nature débridée sur le thème du Disque-Monde que vous retrouverez <a href="http://gndiscworld.unblog.fr">ici</a>.</p>
+            <p>J'aimerais ajouter pour ceux qui ne sont pas au courant  encore me rattraper vu que je n'en ais toujours pas parlé : la série de films  tiré de l'univers de Terry Pratchett vont bon train, vous avez sans doute pu  voir Le Père Porcher. La huitième couleur vient de sortir de l'autre côté de la  Manche et il semble que justement le prochain programmé sera sans doute Timbré  :)<br />
+            Je n'ai pas tout apprécié dans Le Père Porcher notamment  à cause du peu d'acteurs de qualité mais il semble que plus de soin ais été  apporté à la distribution pour La Huitième Couleur.
+            <p>Je  n'ais pas eu trop le temps là mais vous aurez droits à une petite fiches sur le  nouveaux Disque-Monde nommé Timbré (Going Postal) la semaine prochaine je  pense.
+            
+            <p class="p1">Pour finir, une note plus triste : j'ai appris par le site <a href="http://www.elbakin.net">Elbakin.net</a> que Terry Pratchett souffre d'une forme très rare de la maladie d'Alzheimer mais continuera à nous émerveiller aussi longtemps que possible.</p>
             </div>
             <div align=center><img src="images/barre.gif" width=500
               height=25 /></div>
