@@ -11,7 +11,7 @@ $prev_book = array(
 
 $next_book = array(
 'en_en' => 'going_postal',
-'fr_fr' => 'the_last_hero');
+'fr_fr' => 'going_postal');
 
 $editors = array(
 'en_en' => array('C', 'D', 'H', 'TP'),

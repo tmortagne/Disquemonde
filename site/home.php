@@ -292,11 +292,15 @@ include('infos.php');
           src="images/m_droiteb.jpg" width="9" height="9" /></td>
       </tr>
       <tr>
-        <td height="150" align="center" valign="bottom" colspan="3"><a
-          href="<?php echo 'mailto:'.$mail; ?>"><img
-          src="general/email24.gif" width="53" height="50" border="0" /><br />
-        <h5 class="mail">&Eacute;crivez-moi</h5>
-        </a></td>
+        <td height="150" align="center" valign="bottom" colspan="3">
+          <br/>
+          <a href="<?php echo 'mailto:'.$mail; ?>"><img
+            src="general/email24.gif" width="53" height="50" border="0" /><br />
+          <h5 class="mail">&Eacute;crivez-moi</h5>
+          </a>
+          <br/>
+          <a href="http://www.matchitforpratchett.org/"><img src="http://farm3.static.flickr.com/2121/2342207266_84052ae7c7.jpg?v=0" border="0"></a>
+        </td>
       </tr>
     </table>
     </td>

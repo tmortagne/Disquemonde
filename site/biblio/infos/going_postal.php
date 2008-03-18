@@ -1,6 +1,7 @@
 <?
 $title = array(
-'en_en' => 'Going Postal');
+'en_en' => 'Going Postal',
+'fr_fr' => 'Timbré');
 
 $book_number = 29;
 
@@ -10,9 +11,10 @@ $prev_book = array(
 
 $next_book = array(
 'en_en' => 'thud',
-'fr_fr' => '');
+'fr_fr' => 'the_last_hero');
 
 $editors = array(
-'en_en' => array('C', 'D', 'H'));
+'en_en' => array('C', 'D', 'H'),
+'fr_fr' => array('A'));
 
 ?>
