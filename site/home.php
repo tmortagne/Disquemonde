@@ -141,7 +141,7 @@ include('infos.php');
           src="images/m_gauche.jpg" width="8" height="49" /></td>
         <td background="images/m_milieu.jpg" rowspan="8" height="300"
           valign="middle">
-        <table height="300" border="0" width="100%" cellspacing="0"
+        <table height="240" border="0" width="100%" cellspacing="0"
           cellpadding="0">
           <tr>
             <td align="center" valign="middle" height="30"><a
@@ -205,14 +205,6 @@ include('infos.php');
               src="images/bouton_images.jpg" border=0
               alt="Gallerie d'images sur le Disque-Monde" width="120"
               height="30" name="img6" /></a></td>
-          </tr>
-          <tr>
-            <td align="center" valign="middle" height="30"><a
-              href="chat/chat.html"
-              onmouseover="sc.src=sc_chat.src; img11.src=b_chat2.src;"
-              onmouseout="sc.src=scbase.src; img11.src=b_chat.src;"><img
-              src="images/bouton_chat.jpg" border=0 alt="" width="120"
-              height="30" name="img11" /></a></td>
           </tr>
           <tr>
             <td align="center" valign="middle" height="30"><a
