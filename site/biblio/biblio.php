@@ -229,7 +229,7 @@ function printBookEnFrLink($book)
 				<li><? printBookEnFr('_discworld_children_s_novel/the_wee_free_men') ?></li>
 				<li><? printBookEnFr('_discworld_children_s_novel/a_hat_full_of_sky') ?></li>
 				<li><? printBookEnFr('_discworld_children_s_novel/wintersmith') ?></li>
-				<li><? printBookEnFr('_discworld_children_s_novel/when_i_am_old_i_shall_wear_midnight') ?> <b>(Septembre 2006)</b></li>
+				<li><? printBookEnFr('_discworld_children_s_novel/when_i_am_old_i_shall_wear_midnight') ?></li>
               </ul>
             </li>
             <br />

@@ -12,4 +12,7 @@ $next_book = array(
 'en_en' => 'the_last_hero',
 'fr_fr' => 'the_last_hero');
 
+$editors = array(
+'en_en' => array('TP'));
+
 ?>

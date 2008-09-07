@@ -290,8 +290,6 @@ include('infos.php');
             src="general/email24.gif" width="53" height="50" border="0" /><br />
           <h5 class="mail">&Eacute;crivez-moi</h5>
           </a>
-          <br/>
-          <a href="http://www.matchitforpratchett.org/"><img src="http://farm3.static.flickr.com/2121/2342207266_84052ae7c7.jpg?v=0" border="0"></a>
         </td>
       </tr>
     </table>
@@ -317,7 +315,7 @@ include('infos.php');
             quoque me fili ?!</span> <br />
             <img src="images/discworld_22.gif" width="150" align="left"
               height="150" /></p>
-            <p class="p1">Encore une mise &agrave; jour (27/04/08) et,
+            <p class="p1">Encore une mise &agrave; jour (07/09/08) et,
             bien s&ucirc;r, ce site essaye encore et toujours de faire
             sa part dans la propagation de la bonne parole:</p>
             <p align=center><strong><font color="#FFFFFF"><b>LISEZ LE
@@ -386,8 +384,8 @@ include('infos.php');
             &agrave; jour</a></div>
             <br />
             <br />
-            <p>Grosse mise à jour de la page de liens : j'ais remonté un  peu les sites manifestement actifs par rapport à ceux qui manifestement sont a  l'abandon (quand le lien n'atterri pas nulle part). J'en profite d'ailleurs pour inviter chacun à me faire part des bon sites sur le sujet qui nous entoure que je les ajoute ou si j'ais des liens qui ne sont pas a jour.</p>
-            <p>J'ais aussi ajouté un nouveaux site : <a href="http://vade-mecum.over-blog.fr">enfin un  site de news sur Pratchett et le Disque-Monde</a>.</p>
+            <p>Un nouveau venu dans <a href="liens/liens.html">la rubrique liens</a> : <a href="http://fr.fantasy.wikia.com">Mystikpedia</a>, un wiki dédié à l'univers de la fantasy.</p>
+            <p>Sinon j'ais <span class="souris">enfin</span> mis à jour la fiche de <a href="biblio/biblio_base.php?book=going_postal&amp;lang=fr_fr">Timbré</a>.</p>
             </div>
             <div align=center><img src="images/barre.gif" width=500
               height=25 /></div>

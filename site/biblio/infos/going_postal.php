@@ -5,6 +5,8 @@ $title = array(
 
 $book_number = 29;
 
+$cover3 = 'images/disc/' . $_GET['lang'] . '/' . $_GET['book'] . '3.png';
+
 $prev_book = array(
 'en_en' => 'monstruous_regiment',
 'fr_fr' => 'monstruous_regiment');

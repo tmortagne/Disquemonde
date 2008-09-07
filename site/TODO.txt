@@ -1,0 +1,1 @@
+* aller chercher les couvertures dynamiquement sur http://uam.dmkhosting.com/qbajak/dwc/wiki/index.php/Main_Page
