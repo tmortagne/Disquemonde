@@ -1,1 +1,5 @@
 * aller chercher les couvertures dynamiquement sur http://uam.dmkhosting.com/qbajak/dwc/wiki/index.php/Main_Page
+* http://www.amazon.co.uk/gp/product/0385614276/ref=amb_link_71908165_/026-9604362-6746032?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=center-2&pf_rd_r=1HEPTGD9PRYNDKDG7B9J&pf_rd_t=1401&pf_rd_p=204951791&pf_rd_i=1000199353
+* http://www.amazon.co.uk/gp/product/0385611005/ref=amb_link_71908165_1/026-9604362-6746032?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=center-2&pf_rd_r=1HEPTGD9PRYNDKDG7B9J&pf_rd_t=1401&pf_rd_p=204951791&pf_rd_i=1000199353
+* http://www.amazon.co.uk/gp/product/0385612540/ref=amb_link_71908165_2/026-9604362-6746032?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=center-2&pf_rd_r=1HEPTGD9PRYNDKDG7B9J&pf_rd_t=1401&pf_rd_p=204951791&pf_rd_i=1000199353
+* http://www.amazon.co.uk/gp/product/0385613709/ref=amb_link_71908165_3/026-9604362-6746032?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=center-2&pf_rd_r=1HEPTGD9PRYNDKDG7B9J&pf_rd_t=1401&pf_rd_p=204951791&pf_rd_i=1000199353
