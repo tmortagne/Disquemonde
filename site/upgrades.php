@@ -21,11 +21,16 @@
 	
 <table border=1 cellpadding="10">
   <tr> 
-    <td> <h5 class="date">27/04/08</h5>
+    <td> <h5 class="date">07/09/08</h5>
       <br />
-      <p>Grosse mise à jour de la page de liens : j'ais remonté un  peu les sites manifestement actifs par rapport à ceux qui manifestement sont a  l'abandon (quand le lien n'atterri pas nulle part). J'en profite d'ailleurs pour inviter chacun à me faire part des bon sites sur le sujet qui nous entoure que je les ajoute ou si j'ais des liens qui ne sont pas a jour.</p>
-      <p>J'ais aussi ajouté un nouveaux site : <a href="http://vade-mecum.over-blog.fr">enfin un  site de news sur Pratchett et le Disque-Monde</a>.</p>
-      </td>
+      <p>Un nouveau venu dans <a href="liens/liens.html">la rubrique liens</a> : <a href="http://fr.fantasy.wikia.com">Mystikpedia</a>, un wiki dédié à l'univers de la fantasy.</p>
+      <p>Sinon j'ais <span class="souris">enfin</span> mis à jour la fiche de <a href="biblio/biblio_base.php?book=going_postal&amp;lang=fr_fr">Timbré</a>.</p></td>
+  </tr>
+  <tr>
+    <td><h5 class="date">27/04/08</h5>
+        <br />
+        <p>Grosse mise à jour de la page de liens : j'ais remonté un  peu les sites manifestement actifs par rapport à ceux qui manifestement sont a  l'abandon (quand le lien n'atterri pas nulle part). J'en profite d'ailleurs pour inviter chacun à me faire part des bon sites sur le sujet qui nous entoure que je les ajoute ou si j'ais des liens qui ne sont pas a jour.</p>
+      <p>J'ais aussi ajouté un nouveaux site : <a href="http://vade-mecum.over-blog.fr">enfin un  site de news sur Pratchett et le Disque-Monde</a>.</p></td>
   </tr>
   <tr>
     <td><h5 class="date">09/03/08</h5>
@@ -34,8 +39,7 @@
       <p>J'aimerais ajouter pour ceux qui ne sont pas au courant  encore me rattraper vu que je n'en ais toujours pas parlé : la série de films  tirés de l'univers de Terry Pratchett vont bon train, vous avez sans doute pu  voir Le Père Porcher. La huitième couleur vient de sortir de l'autre côté de la  Manche et il semble que justement le prochain programmé sera sans doute Timbré  :)<br />
         Je n'ai pas tout apprécié dans Le Père Porcher notamment  à cause du peu d'acteurs de qualité mais il semble que plus de soin ais été  apporté à la distribution pour La Huitième Couleur. </p>
       <p>Je  n'ais pas eu trop le temps là mais vous aurez droits à une petite fiches sur le  nouveaux Disque-Monde nommé Timbré (Going Postal) la semaine prochaine je  pense. </p>
-      <p class="p1">Pour finir, une note plus triste : j'ai appris par le site <a href="http://www.elbakin.net">Elbakin.net</a> que Terry Pratchett souffre d'une forme très rare de la maladie d'Alzheimer mais continuera à nous émerveiller aussi longtemps que possible.</p>
-    </td>
+      <p class="p1">Pour finir, une note plus triste : j'ai appris par le site <a href="http://www.elbakin.net">Elbakin.net</a> que Terry Pratchett souffre d'une forme très rare de la maladie d'Alzheimer mais continuera à nous émerveiller aussi longtemps que possible.</p>    </td>
   </tr>
   <tr>
     <td><h5 class="date">09/12/07</h5>

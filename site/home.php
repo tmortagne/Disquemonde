@@ -315,7 +315,7 @@ include('infos.php');
             quoque me fili ?!</span> <br />
             <img src="images/discworld_22.gif" width="150" align="left"
               height="150" /></p>
-            <p class="p1">Encore une mise &agrave; jour (07/09/08) et,
+            <p class="p1">Encore une mise &agrave; jour (08/10/08) et,
             bien s&ucirc;r, ce site essaye encore et toujours de faire
             sa part dans la propagation de la bonne parole:</p>
             <p align=center><strong><font color="#FFFFFF"><b>LISEZ LE
@@ -384,9 +384,20 @@ include('infos.php');
             &agrave; jour</a></div>
             <br />
             <br />
-            <p>Un nouveau venu dans <a href="liens/liens.html">la rubrique liens</a> : <a href="http://fr.fantasy.wikia.com">Mystikpedia</a>, un wiki dédié à l'univers de la fantasy.</p>
-            <p>Sinon j'ais <span class="souris">enfin</span> mis à jour la fiche de <a href="biblio/biblio_base.php?book=going_postal&amp;lang=fr_fr">Timbré</a>.</p>
+            <p>Une  mise à jour pour ajouter une nouvelle &quot;rubrique&quot; à cette page à  l'occasion d'une demande d'un peu de publicité pour un super projet : <a href="biblio/biblio_base.php?book=equal_rites&amp;lang=fr_fr">Trois Soeurcières</a>  sur les planches !</p>
+            <p>Lisez l'annonce en dessous pour plus de détails :).</p>
             </div>
+            <div align=center><img src="images/barre.gif" width=500
+              height=25 /></div>
+            <br />
+            <h1 class="titre" align="center">Évènements</h1>
+            <br />
+            <br />
+            <h2>Pièce de théâtre   Trois Soeurcières à Lyon</h2>
+            <p class="p1">Je laisse parler directement l'organisateur ;)</p>
+            <p class="p1">&quot;Trois  Soeurcières, Mémé Ciredutemps, Nounou Ogg et Magrat Goussedail... Je  vous propose de revive cette aventure en vrai, sous sa forme théâtrale !</p>
+            <p class="p1">              Que vous ayez déjà gouté les joies des planches d'un théâtre ou non, la  Troupe Théâtrale (théâtre amateur) de l'INSA de Lyon vous invite à  grossir ses rangs! Nous jouerons la pièce du <strong>4 au 7 Mai   2009</strong> (donc si vous ne voulez pas jouer ou si vous n'êtes pas sur Lyon vous  pouvez quand même venir nous voir!), et d'ici là, nous nous retrouvons  tous les lundis à 20h sur le campus de la Doua. Que vous soyez étudiant  ou non, nous avons besoin de renforts !<br />
+              Toutes les informations pour nous voir ou nous contacter sur notre site : <a href="http://tti.insa-lyon.fr/" target="_blank">http://tti.insa-lyon.fr</a>&quot;.</p>
             <div align=center><img src="images/barre.gif" width=500
               height=25 /></div>
             <br />
