@@ -315,7 +315,7 @@ include('infos.php');
             quoque me fili ?!</span> <br />
             <img src="images/discworld_22.gif" width="150" align="left"
               height="150" /></p>
-            <p class="p1">Encore une mise &agrave; jour (08/10/08) et,
+            <p class="p1">Encore une mise &agrave; jour (13/12/08) et,
             bien s&ucirc;r, ce site essaye encore et toujours de faire
             sa part dans la propagation de la bonne parole:</p>
             <p align=center><strong><font color="#FFFFFF"><b>LISEZ LE
@@ -384,8 +384,11 @@ include('infos.php');
             &agrave; jour</a></div>
             <br />
             <br />
-            <p>Une  mise à jour pour ajouter une nouvelle &quot;rubrique&quot; à cette page à  l'occasion d'une demande d'un peu de publicité pour un super projet : <a href="biblio/biblio_base.php?book=equal_rites&amp;lang=fr_fr">Trois Soeurcières</a>  sur les planches !</p>
-            <p>Lisez l'annonce en dessous pour plus de détails :).</p>
+            <p>Une annonce avec un peu de retard...</p>
+            <p class="souris">comme d'habitude</p>
+            <p>... concernant une évolution majeure d'un site &quot;concurrent&quot; ;)</p>
+            <p>En effet le Vade Mecum à dépassé le stade du blog pour devenir avec brio (trop même :)) sans doute le meilleurs site français que je connaisse sur Terry Pratchett et le Disque-Monde. Alors à vos souris, directions <a href="http://www.vademecum-dm.com">http://www.vademecum-dm.com</a>.</p>
+            <p>Pour ceux pour qui ce n'était pas encore le cas je vous conseille vivement de suivre les news (un flux RSS est disponible) de ce site qui sous toujours intéressantes et nombreuses.</p>
             </div>
             <div align=center><img src="images/barre.gif" width=500
               height=25 /></div>

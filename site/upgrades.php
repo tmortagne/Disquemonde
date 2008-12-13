@@ -21,9 +21,15 @@
 	
 <table border=1 cellpadding="10">
   <tr> 
-    <td> <h5 class="date">07/09/08</h5>
+    <td> <h5 class="date">08/10/08</h5>
       <br />
-      <p>Un nouveau venu dans <a href="liens/liens.html">la rubrique liens</a> : <a href="http://fr.fantasy.wikia.com">Mystikpedia</a>, un wiki dédié à l'univers de la fantasy.</p>
+      <p>Une  mise à jour pour ajouter une nouvelle &quot;rubrique&quot; à cette page à  l'occasion d'une demande d'un peu de publicité pour un super projet : <a href="biblio/biblio_base.php?book=equal_rites&amp;lang=fr_fr">Trois Soeurcières</a> sur les planches !</p>
+      <p>Lisez l'annonce en dessous pour plus de détails :).</p></td>
+  </tr>
+  <tr>
+    <td><h5 class="date">07/09/08</h5>
+        <br />
+        <p>Un nouveau venu dans <a href="liens/liens.html">la rubrique liens</a> : <a href="http://fr.fantasy.wikia.com">Mystikpedia</a>, un wiki dédié à l'univers de la fantasy.</p>
       <p>Sinon j'ais <span class="souris">enfin</span> mis à jour la fiche de <a href="biblio/biblio_base.php?book=going_postal&amp;lang=fr_fr">Timbré</a>.</p></td>
   </tr>
   <tr>
