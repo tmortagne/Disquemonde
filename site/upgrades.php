@@ -21,9 +21,18 @@
 	
 <table border=1 cellpadding="10">
   <tr> 
-    <td> <h5 class="date">08/10/08</h5>
+    <td> <h5 class="date">13/12/08</h5>
       <br />
-      <p>Une  mise à jour pour ajouter une nouvelle &quot;rubrique&quot; à cette page à  l'occasion d'une demande d'un peu de publicité pour un super projet : <a href="biblio/biblio_base.php?book=equal_rites&amp;lang=fr_fr">Trois Soeurcières</a> sur les planches !</p>
+      <p>Une annonce avec un peu de retard...</p>
+      <p class="souris">comme d'habitude</p>
+      <p>... concernant une évolution majeure d'un site &quot;concurrent&quot; ;)</p>
+      <p>En effet le Vade Mecum à dépassé le stade du blog pour devenir avec brio (trop même :)) sans doute le meilleurs site français que je connaisse sur Terry Pratchett et le Disque-Monde. Alors à vos souris, directions <a href="http://www.vademecum-dm.com">http://www.vademecum-dm.com</a>.</p>
+      <p>Pour ceux pour qui ce n'était pas encore le cas je vous conseille vivement de suivre les news (un flux RSS est disponible) de ce site qui sous toujours intéressantes et nombreuses.</p></td>
+  </tr>
+  <tr>
+    <td><h5 class="date">08/10/08</h5>
+        <br />
+        <p>Une  mise à jour pour ajouter une nouvelle &quot;rubrique&quot; à cette page à  l'occasion d'une demande d'un peu de publicité pour un super projet : <a href="biblio/biblio_base.php?book=equal_rites&amp;lang=fr_fr">Trois Soeurcières</a> sur les planches !</p>
       <p>Lisez l'annonce en dessous pour plus de détails :).</p></td>
   </tr>
   <tr>
