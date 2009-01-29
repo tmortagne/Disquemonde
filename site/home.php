@@ -286,9 +286,9 @@ include('infos.php');
       <tr>
         <td height="150" align="center" valign="bottom" colspan="3">
           <br/>
-          <a href="<?php echo 'mailto:'.$mail; ?>"><img
-            src="general/email24.gif" width="53" height="50" border="0" /><br />
-          <h5 class="mail">&Eacute;crivez-moi</h5>
+          <a href="<?php echo $mail_link; ?>" onclick="window.open('<?php echo $mail_link; ?>', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">
+            <img src="general/email24.gif" width="53" height="50" border="0" /><br />
+            <h5 class="mail">&Eacute;crivez-moi</h5>
           </a>
         </td>
       </tr>
