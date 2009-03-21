@@ -315,7 +315,7 @@ include('infos.php');
             quoque me fili ?!</span> <br />
             <img src="images/discworld_22.gif" width="150" align="left"
               height="150" /></p>
-            <p class="p1">Encore une mise &agrave; jour (03/01/09) et,
+            <p class="p1">Encore une mise &agrave; jour (21/03/09) et,
             bien s&ucirc;r, ce site essaye encore et toujours de faire
             sa part dans la propagation de la bonne parole:</p>
             <p align=center><strong><font color="#FFFFFF"><b>LISEZ LE
@@ -384,9 +384,8 @@ include('infos.php');
             &agrave; jour</a></div>
             <br />
             <br />
-            <p>Incroyable comme je fait plus de news depuis quelques temps...</p>
-            <p class="souris">tu parle c'est pratiquement jamais à propos de ce site...</p>
-            <p>Enfin bon toujours est il que le <a href="http://www.vademecum-dm.com">Vade-Mecum</a> a publié une excellente interview de Monsieur Paul Kidby que vous trouverez à l'adresse <a href="http://www.vademecum-dm.com/pratchett.php?n=kidby&amp;iview=1230937200">http://www.vademecum-dm.com/pratchett.php?n=kidby&amp;iview=1230937200</a>.</p>
+            <p>Juste une petite annonce pour faire la promotion d'un <a href="irc://irc.internet-terrorists.org/#discworld">chan #Discworld sur sur le réseau irc Internet-Terrorists</a>. Allez sur la <a href="liens/liens.html">Section Liens</a> pour plus de détails.</p>
+            <p class="souris">plus de détails ne signifiant pas dire beaucoups de détails, au contraire...</p>
             </div>
             <div align=center><img src="images/barre.gif" width=500
               height=25 /></div>

@@ -21,7 +21,14 @@
 	
 <table border=1 cellpadding="10">
   <tr> 
-    <td> <h5 class="date">13/12/08</h5>
+    <td> <h5 class="date">03/01/09</h5>
+      <br />
+      <p>Incroyable comme je fait plus de news depuis quelques temps...</p>
+      <p class="souris">tu parle c'est pratiquement jamais à propos de ce site...</p>
+      <p>Enfin bon toujours est il que le <a href="http://www.vademecum-dm.com">Vade-Mecum</a> a publié une excellente interview de Monsieur Paul Kidby que vous trouverez à l'adresse <a href="http://www.vademecum-dm.com/pratchett.php?n=kidby&amp;iview=1230937200">http://www.vademecum-dm.com/pratchett.php?n=kidby&amp;iview=1230937200</a>.</p></td>
+  </tr>
+  <tr>
+    <td><h5 class="date">13/12/08</h5>
       <br />
       <p>Une annonce avec un peu de retard...</p>
       <p class="souris">comme d'habitude</p>
