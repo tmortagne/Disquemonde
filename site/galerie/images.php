@@ -218,10 +218,12 @@
 	<table width="100%">
 		<tr>	
 			
-    <td align="center"><a href="mailto:tuskad@laposte.net"><img src="../general/mail.gif" border="0" width=65 height=35 /></a><br />
-      <a href="<?php echo 'mailto:'.$mail; ?>" class="mail">
-      <h5 class="mail">N'hésitez-pas !</h5></a>
-      </td>
+    <td align="center">
+      <a href="<?php echo $mail_link; ?>" onclick="window.open('<?php echo $mail_link; ?>', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">
+        <img src="../general/mail.gif" border="0" width=65 height=35 /><br/>
+        <h5 class="mail">N'hésitez-pas !</h5>
+      </a>
+    </td>
 			
     <td align="center" width="100%"><a href="../home.php"><img src="../general/home.gif" alt="Retour à la page d'accueil" width="93" height="80" border="0" /></a></td>
 		</tr>

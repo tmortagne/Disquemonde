@@ -145,7 +145,7 @@ include('infos.php');
           cellpadding="0">
           <tr>
             <td align="center" valign="middle" height="30"><a
-              href="discworld/disc.html"
+              href="discworld/disc.php"
               onmouseover="sc.src=sc_atuin.src; img1.src=b_atuin2.src;"
               onmouseout="sc.src=scbase.src; img1.src=b_atuin.src;"><img
               src="images/bouton_atuin.jpg" border=0
@@ -172,7 +172,7 @@ include('infos.php');
           </tr>
           <tr>
             <td align="center" valign="middle" height="30"><a
-              href="histoires/histoires.html"
+              href="histoires/histoires.php"
               onmouseover="sc.src=sc_histoires.src; img3.src=b_histoires2.src;"
               onmouseout="sc.src=scbase.src; img3.src=b_histoires.src;"><img
               src="images/bouton_histoires.jpg" border=0
@@ -181,7 +181,7 @@ include('infos.php');
           </tr>
           <tr>
             <td align="center" valign="middle" height="15"><a
-              href="pratchett/pratchett.html"
+              href="pratchett/pratchett.php"
               onmouseover="sc.src=sc_pratchett.src; img4.src=b_pratchett2.src;"
               onmouseout="sc.src=scbase.src; img4.src=b_pratchett.src;"><img
               src="images/bouton_pratchett.jpg" border=0
@@ -208,7 +208,7 @@ include('infos.php');
           </tr>
           <tr>
             <td align="center" valign="middle" height="30"><a
-              href="download/telecharger.html"
+              href="download/telecharger.php"
               onmouseover="sc.src=sc_telecharger.src; img9.src=b_telecharger2.src;"
               onmouseout="sc.src=scbase.src; img9.src=b_telecharger.src;"><img
               src="images/bouton_telecharger.jpg" border=0
@@ -217,7 +217,7 @@ include('infos.php');
           </tr>
           <tr>
             <td align="center" valign="middle" height="30"><a
-              href="liens/liens.html"
+              href="liens/liens.php"
               onmouseover="sc.src=sc_liens.src; img7.src=b_liens2.src;"
               onmouseout="sc.src=scbase.src; img7.src=b_liens.src;"><img
               src="images/bouton_liens.jpg" border=0
@@ -323,7 +323,7 @@ include('infos.php');
             <p class="p">J'ai essay&eacute; de regrouper ici tout ce
             dont vous aurez besoin, je l'esp&egrave;re, pour
             d&eacute;couvrir le monde loufoque cr&eacute;&eacute; par <a
-              href="pratchett/pratchett.html">Terry Pratchett</a> (que
+              href="pratchett/pratchett.php">Terry Pratchett</a> (que
             diriez vous de vous trimbaler sur un monde en forme de
             pizza, port&eacute;e par quatre &eacute;l&eacute;phants
             g&eacute;ants, eux-m&ecirc;me tract&eacute;s par une tortue
@@ -337,18 +337,18 @@ include('infos.php');
             (tir&eacute; de: Trois soeurci&egrave;res/Wyrd systers).</p>
             <p class="p">Vous pourrez d&eacute;couvrir, entre autre, <a
               href="biblio/biblio.php">les livres</a> qui composent
-            l'oeuvre de <a href="pratchett/pratchett.html">Terry
+            l'oeuvre de <a href="pratchett/pratchett.php">Terry
             Pratchett</a> aid&eacute; parfois de <a
-              href="collegues/collegues.html">coll&egrave;gues</a>, une
+              href="collegues/collegues.php">coll&egrave;gues</a>, une
             galerie avec beaucoup d'<a href="galerie/images.php">images</a>
             se rapportant au monde qui tient sur le dos d'<a
-              href="discworld/disc.html">A'Tuin</a>, ainsi que beaucoup
+              href="discworld/disc.php">A'Tuin</a>, ainsi que beaucoup
             de <a href="persos/perso.php">personnages</a>
             r&eacute;currents du Disque. Enfin, il y a aussi un lien
-            vers <a href="chat/chat.html">LE Chat du Disque-Monde</a>
+            vers <a href="chat/chat.php">LE Chat du Disque-Monde</a>
             tout pr&egrave;s &agrave; accueillir vos d&eacute;bats
             endiabl&eacute;s ainsi qu'une rubrique <a
-              href="download/telecharger.html">t&eacute;l&eacute;chargement</a>
+              href="download/telecharger.php">t&eacute;l&eacute;chargement</a>
             avec tout un tas de trucs int&eacute;ressant...</p>
             <p class="p2">Amusez-vous bien!</p>
             <p class="p2">P.S.: N'h&eacute;sitez surtout pas &agrave;
@@ -384,7 +384,7 @@ include('infos.php');
             &agrave; jour</a></div>
             <br />
             <br />
-            <p>Juste une petite annonce pour faire la promotion d'un <a href="irc://irc.internet-terrorists.org/#discworld">chan #Discworld sur sur le réseau irc Internet-Terrorists</a>. Allez sur la <a href="liens/liens.html">Section Liens</a> pour plus de détails.</p>
+            <p>Juste une petite annonce pour faire la promotion d'un <a href="irc://irc.internet-terrorists.org/#discworld">chan #Discworld sur sur le réseau irc Internet-Terrorists</a>. Allez sur la <a href="liens/liens.php">Section Liens</a> pour plus de détails.</p>
             <p class="souris">plus de détails ne signifiant pas dire beaucoups de détails, au contraire...</p>
             </div>
             <div align=center><img src="images/barre.gif" width=500

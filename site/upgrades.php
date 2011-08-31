@@ -45,7 +45,7 @@
   <tr>
     <td><h5 class="date">07/09/08</h5>
         <br />
-        <p>Un nouveau venu dans <a href="liens/liens.html">la rubrique liens</a> : <a href="http://fr.fantasy.wikia.com">Mystikpedia</a>, un wiki dédié à l'univers de la fantasy.</p>
+        <p>Un nouveau venu dans <a href="liens/liens.php">la rubrique liens</a> : <a href="http://fr.fantasy.wikia.com">Mystikpedia</a>, un wiki dédié à l'univers de la fantasy.</p>
       <p>Sinon j'ais <span class="souris">enfin</span> mis à jour la fiche de <a href="biblio/biblio_base.php?book=going_postal&amp;lang=fr_fr">Timbré</a>.</p></td>
   </tr>
   <tr>
@@ -166,7 +166,7 @@
         <br />
         <br />
         <ul>
-          <li>Avec la sortie de NeverWinter Night 2, les <a href="http://sebnoi.free.fr/castledania/">Terres d'Iria</a> (que vous trouvez sur la page <a href="liens/liens.html">liens</a>) compte ouvrir/mettre au point un nouveau serveur pour cette version. Le mieux est de vous mettre directement le speech de Terremer qui explique mieu que moi:
+          <li>Avec la sortie de NeverWinter Night 2, les <a href="http://sebnoi.free.fr/castledania/">Terres d'Iria</a> (que vous trouvez sur la page <a href="liens/liens.php">liens</a>) compte ouvrir/mettre au point un nouveau serveur pour cette version. Le mieux est de vous mettre directement le speech de Terremer qui explique mieu que moi:
             <p class="p"><em>Notre groupe est plus que jamais vivant et nous en sommes &agrave; la cinquanti&egrave;me<br />
               rencontre virtuelle :)<br />
               (25i&egrave;me s&eacute;ance de la saison 2).<br />
@@ -199,7 +199,7 @@
     <td><h5 class="date">23/08/05</h5>
         <br />
         <br />
-        <p class="p">Un petit nouveau dans la section <a href="liens/liens.html">liens</a> : <a href="http://discworld-rpg.forumactif.com">Disworld 
+        <p class="p">Un petit nouveau dans la section <a href="liens/liens.php">liens</a> : <a href="http://discworld-rpg.forumactif.com">Disworld 
           - RPG</a> un forum RPG sur ce monde loufoque cr&eacute;&eacute; par Terry 
           Pratchett.</p>
       <p class="p">Quelques nouveaux truc dans <a href="biblio/biblio.php">Biblio</a> :</p>
@@ -308,7 +308,7 @@
         (mais j'ai pas fait les nouvelles fiches qui vont avec d&eacute;sol&eacute; 
         je le ferais des que je trouverais du temps).</p>
       <p class="p">Vous trouverez aussi un nouveau site sur le Disque dans la 
-        section <a href="liens/liens.html">liens</a>.</p>
+        section <a href="liens/liens.php">liens</a>.</p>
       <p class="p">Ha oui et puis j'ai un peu debugger la page ou vous vous trouvez.</p>
       <p class="souris">bah un bug de plus ou de moins...</p>    </td>
   </tr>
@@ -325,10 +325,10 @@
             P&egrave;re Porcher</a> et <a href="biblio/biblio_base.php?book=jingo&lang=fr_fr">Va-t-en-guerre</a>)</p>
         </li>
         <li> 
-          <p> quelques <a href="liens/liens.html">liens</a> en plus</p>
+          <p> quelques <a href="liens/liens.php">liens</a> en plus</p>
         </li>
         <li> 
-          <p> l'intro du dessin anime Soul Music a <a href="download/telecharger.html">t&eacute;l&eacute;charger</a></p>
+          <p> l'intro du dessin anime Soul Music a <a href="download/telecharger.php">t&eacute;l&eacute;charger</a></p>
         </li>
       </ul></td>
   </tr>
@@ -346,7 +346,7 @@
       <br /> <br /> <p class="p1">Quelques trucs sympa pour cette mise &agrave; jour.</p>
       <p class="p">Tout d'abord, je ma suis fait tap&eacute; sur les doigts (&agrave; 
         juste titre) alors &ccedil;a y est: vous trouverez une biographie de Josh 
-        Kirby dans la rubrique <a href="collegues/collegues.html">Coll&egrave;gues</a> 
+        Kirby dans la rubrique <a href="collegues/collegues.php">Coll&egrave;gues</a> 
         (il n'y a que lui pour l'instant).</p>
       <p>Un chat du Disque-Monde c'est ouvert, allez sur la page Chat pour savoir 
         comment s'y rendre.</p>
@@ -361,10 +361,10 @@
         de son imagination d&eacute;bordante?</b></h6>
       <p class="p2">Tout aussi important: il y a une nouvelle histoire &eacute;crite 
         par un fan (c'est pas encore fini mais &ccedil;a commence bien) dans la 
-        section <a href="histoires/histoires.html">histoires</a>.</p>
+        section <a href="histoires/histoires.php">histoires</a>.</p>
       <p class="p2">De plus vous trouverez d&eacute;sormais, dans la section <a href="biblio/biblio.php">biblio</a>, 
         les versions anglaises des bouquins (couvertures, synopsis...). Il y a 
-        aussi 2 ou 3 truc sympas en plus dans la rubrique <a href="download/telecharger.html">t&#65533;l&#65533;chargement</a>.      </p>
+        aussi 2 ou 3 truc sympas en plus dans la rubrique <a href="download/telecharger.php">t&#65533;l&#65533;chargement</a>.      </p>
       <p class="p2">Enfin, le site est nickel maintenant sur Netscape... enfin 
         &ccedil;a se voit presque pas.</p>    </td>
   </tr>
@@ -401,12 +401,12 @@
       <p>Sinon j'ai ajout&eacute; quelques r&eacute;f&eacute;rence dans la section 
         <a href="/biblio/biblio.php">Biblio</a>. Vous pourrez aussi trouver des 
         musique de Discworld Noir et une jolie petite vid&eacute;o en mpg dans 
-        la page <a href="download/telecharger.html">T&eacute;l&eacute;chargement</a>.</p>    </td>
+        la page <a href="download/telecharger.php">T&eacute;l&eacute;chargement</a>.</p>    </td>
   </tr>
   <tr> 
     <td> <h5 class="date">11/08/01</h5>
       <br /> <br /> <p class="p1"><strong>Tr&#65533;s important</strong><br />
-        J'ai enfin r&#65533;cup&#65533;r&#65533; une nouvelle...heu...nouvelle dans la rubrique <a href="histoires/histoires.html">Histoires</a>.<br />
+        J'ai enfin r&#65533;cup&#65533;r&#65533; une nouvelle...heu...nouvelle dans la rubrique <a href="histoires/histoires.php">Histoires</a>.<br />
         Ca m&#65533;ritait bien une mise jour non ? Allez y ! N'h&#65533;sitaient pas ! Elle 
         m&#65533;rite une tr&#65533;s bonne apprr&#65533;ciation de ma par sachant que c'est l'oeuvre 
         d'un fan - Muxle de son petit nom - qui relate la g&#65533;n&#65533;se du Disque-Monde 
@@ -423,7 +423,7 @@
         page dans la <a href="galerie/images.php">galerie d'images</a>.</p>
       <p>Il y a&#65533;d&#65533;sormais 26 personnages dans la rubrique <a href="persos/perso.php">persos</a>, 
         ce qui fait tout de m&#65533;me 14 de plus, tout plein donc&#65533;!</p>
-      <p>J'ai aussi soign&#65533; un peu plus la rubrique <a href="download/telecharger.html">t&#65533;l&#65533;chargement</a>: 
+      <p>J'ai aussi soign&#65533; un peu plus la rubrique <a href="download/telecharger.php">t&#65533;l&#65533;chargement</a>: 
         That's Deth, th&#65533;mes...</p>    </td>
   </tr>
   <tr> 
@@ -435,7 +435,7 @@
         J'esp&#65533;re que vous serez tr&#65533;s nombreux &#65533; vous d&#65533;fouler sur un endroit o&#65533; 
         l'on peut enfin dire tout ce qui nous passe par la t&#65533;te sur le monde loufoque, 
         d&#65533;lirant, illarant ... qu'&#65533; cr&#65533;&#65533; le Sieur Pratchett.</p>
-      <p>Y'a aussi une nouvelle rubrique <a href="download/telecharger.html">t&#65533;l&#65533;chargement</a>: 
+      <p>Y'a aussi une nouvelle rubrique <a href="download/telecharger.php">t&#65533;l&#65533;chargement</a>: 
         That's Deth, th&#65533;mes...</p>    </td>
   </tr>
   <tr> 

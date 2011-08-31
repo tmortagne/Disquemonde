@@ -67,7 +67,7 @@ function MM_swapImage() { //v3.0
       <table width="670">
         <tr> 
           <td width="100%"><a href="../../biblio/the_last_continent_fr.html"><img src="../../biblio/images/precedent.gif" border="0" alt="Le dernier continent" width="50" height="51"></a> 
-            <a href="../../biblio/biblio.html"><img src="../../biblio/images/songbook.gif" width="82" height="51" border="0" alt="Retour � la page Bibliographie"></a> 
+            <a href="../../biblio/biblio.php"><img src="../../biblio/images/songbook.gif" width="82" height="51" border="0" alt="Retour � la page Bibliographie"></a> 
             <a href="../../biblio/the_fifth_elephant_fr.html"><img src="../../biblio/images/suivant.gif" border="0" alt="Le cinqui&egrave;me &eacute;l&eacute;phant"></a></td>
           <td align="right"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image11','','../../biblio/images/<? print $flag[$_GET['lang']] ?>2.gif',1)"><img name="Image11" border="0" src="../../biblio/images/<? print $flag[$_GET['lang']] ?>.gif" alt="Version anglaise"></a></td>
         </tr>
