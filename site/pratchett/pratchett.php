@@ -60,11 +60,7 @@
         de 7 000 000 d'exemplaires en Angleterre. En quelques mois il atteint 
         le Top 10. Il est traduit en 18 langues et est connu dans plus de 25 pays. 
         La France commence à le découvrir.</p>
-      <p class="p">De nos jours, Terry Pratchett vit à Wiltshire (toujours en Angleterre) 
-		avec sa femme Lyn et sa fille Rhianna. Il consacre, aujourd'hui, 
-		ses loisirs à la culture des plantes carnivores (qui sont 
-		beaucoup moins intéressantes que les gens ne se l'imaginent) et, 
-		selon lui, il n'y a pas assez d'orangs-outans sur terre.<br /><br /><br /></p>
+      <p class="p">Terry Pratchett a rejoint son personnage fétiche le 12 Mars 2015 à 66 ans «à son domicile, son chat endormi sur son lit et entouré par sa famille» (d'après son éditeur).<br /><br /><br /></p>
 	</td></tr>
 	<tr>
     <td colspan="2" valign="bottom"> <br />
