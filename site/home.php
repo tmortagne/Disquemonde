@@ -354,7 +354,7 @@ include('infos.php');
             <p class="p2">P.S.: N'h&eacute;sitez surtout pas &agrave;
             m'indiquer les choses qui ne vont pas.</p>
             <br />
-            <div align=center><img src="images/barre.gif" width=500
+            <!--<div align=center><img src="images/barre.gif" width=500
               height=25 /></div>
             <br />
             <div class="p1">
@@ -380,24 +380,27 @@ include('infos.php');
                 </form>                </td>
               </tr>
             </table>
+            -->
             <div align=center><a href="upgrades.php">Liste des mises
             &agrave; jour</a></div>
             <br />
             <br />
+            <!--
             <p>Juste une petite annonce pour faire la promotion d'un <a href="irc://irc.internet-terrorists.org/#discworld">chan #Discworld sur sur le réseau irc Internet-Terrorists</a>. Allez sur la <a href="liens/liens.php">Section Liens</a> pour plus de détails.</p>
             <p class="souris">plus de détails ne signifiant pas dire beaucoups de détails, au contraire...</p>
             </div>
+            -->
             <div align=center><img src="images/barre.gif" width=500
               height=25 /></div>
             <br />
-            <h1 class="titre" align="center">Évènements</h1>
+            <!--<h1 class="titre" align="center">Évènements</h1>-->
             <br />
             <br />
-            <h2>Pièce de théâtre   Trois Soeurcières à Lyon</h2>
-            <p class="p1">Je laisse parler directement l'organisateur ;)</p>
-            <p class="p1">&quot;Trois  Soeurcières, Mémé Ciredutemps, Nounou Ogg et Magrat Goussedail... Je  vous propose de revive cette aventure en vrai, sous sa forme théâtrale !</p>
-            <p class="p1">              Que vous ayez déjà gouté les joies des planches d'un théâtre ou non, la  Troupe Théâtrale (théâtre amateur) de l'INSA de Lyon vous invite à  grossir ses rangs! Nous jouerons la pièce du <strong>4 au 7 Mai   2009</strong> (donc si vous ne voulez pas jouer ou si vous n'êtes pas sur Lyon vous  pouvez quand même venir nous voir!), et d'ici là, nous nous retrouvons  tous les lundis à 20h sur le campus de la Doua. Que vous soyez étudiant  ou non, nous avons besoin de renforts !<br />
-              Toutes les informations pour nous voir ou nous contacter sur notre site : <a href="http://tti.insa-lyon.fr/" target="_blank">http://tti.insa-lyon.fr</a>&quot;.</p>
+            <h5>12 Mars 2015</h5>
+            <h2>Le maître du Disque-Monde nous a quitté</h2>
+            <p class="p1">Terry Pratchett a rejoint son personnage fétiche à 66 ans «à son domicile, son chat endormi sur son lit et entouré par sa famille» (d'après son éditeur).</p>
+            <p class="p1">Il avait été diagnostiqué d'une d'une forme rare d'Alzheimer en 2007 et même si ce triste événement était prévisible c'est toujours un choc.</p>
+            <p class="p1">Adieu Sir et bon voyage.</p>
             <div align=center><img src="images/barre.gif" width=500
               height=25 /></div>
             <br />
@@ -412,10 +415,6 @@ include('infos.php');
             arr&ecirc;ter de vous promettre des truc. Il s'av&egrave;re
             que j'en suis venu &agrave; faire des mises &agrave; jour
             par obligation alors je vais arr&ecirc;ter un peu.</p>
-            <p class="p1">D&eacute;sol&eacute;. Je vais tout de
-            m&ecirc;me continuer &agrave; annoncer les sortie
-            normalement et si il y a de nouvelle mises &agrave; jours,
-            elles serons sans doute plus techniques que documentaires...</p>
             <p class="p1">Enfin bon... au revoir donc et &agrave; la
             prochaine.</p>            </td>
           </tr>

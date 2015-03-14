@@ -20,6 +20,15 @@
 
 	
 <table border=1 cellpadding="10">
+  <tr>
+    <td> <h5 class="date">05/04/09</h5>
+            <p>Pièce de théâtre   Trois Soeurcières à Lyon</p>
+            <p>Je laisse parler directement l'organisateur ;)</p>
+            <p>&quot;Trois  Soeurcières, Mémé Ciredutemps, Nounou Ogg et Magrat Goussedail... Je  vous propose de revive cette aventure en vrai, sous sa forme théâtrale !</p>
+            <p>              Que vous ayez déjà gouté les joies des planches d'un théâtre ou non, la  Troupe Théâtrale (théâtre amateur) de l'INSA de Lyon vous invite à  grossir ses rangs! Nous jouerons la pièce du <strong>4 au 7 Mai   2009</strong> (donc si vous ne voulez pas jouer ou si vous n'êtes pas sur Lyon vous  pouvez quand même venir nous voir!), et d'ici là, nous nous retrouvons  tous les lundis à 20h sur le campus de la Doua. Que vous soyez étudiant  ou non, nous avons besoin de renforts !<br />
+              Toutes les informations pour nous voir ou nous contacter sur notre site : <a href="http://tti.insa-lyon.fr/" target="_blank">http://tti.insa-lyon.fr</a>&quot;.</p>
+    </td>
+  </tr>
   <tr> 
     <td> <h5 class="date">03/01/09</h5>
       <br />

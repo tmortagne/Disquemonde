@@ -24,8 +24,8 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
-      <div><img src="nightwatch.jpg" alt="Bienvenue" width="300"
-        height="246" border="0" />
+      <div><img src="check-mort.jpg" alt="Bienvenue" width="422"
+        height="512" border="0" />
       <h5><font color="red" size="5">Le Disque-Monde !! ...</font> <span
         class="souris">c'est quoi &ccedil;a ?</span></h5>
       <p class="p">- R&eacute;jouissez-vous petits veinards: <a
