@@ -43,7 +43,7 @@
       <h5 class="souris">- O&ugrave;...</h5>
       <p><span class="p">-</span> <a href="home.php" class="a"><font
         size="+4">Ici</font></a> <span class="p">bordel. Oh et puis zut!
-      Moi je</span> <span class="a1">m'tire, j'en ai mare, &ccedil;a</span>
+      Moi je</span> <span class="a1">m'tire, j'en ai marre, &ccedil;a</span>
       <span class="a2">c'&eacute;tait couru d'avance !</span> <span
         class="a3">Je m'dit: &quot;Ce s'rait marrant de</span> <span
         class="a4">faire un site sur truc</span> <span class="a5">comme
