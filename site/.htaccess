@@ -1,3 +1,5 @@
-<IfModule headers_module>
-  header set X-Clacks-Overhead "GNU Terry Pratchett"
+<IfDefine IfModule>
+<IfModule  mod_headers.c>
+Header set X-Clacks-Overhead "GNU Terry Pratchett"
 </IfModule>
+</IfDefine>
